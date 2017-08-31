@@ -6,13 +6,14 @@
     <title>Odesolve_lazy</title>
     <authors>Microsoft.Research, TovarnovM</authors>
     <owners>Microsoft.Research</owners>
-    <licenseUrl>Microsoft research</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <licenseUrl>ftp://ftp.research.microsoft.com/users/philbe/MSR-LA-Software-%20No%20distrib-OK%20to%20modify.pdf</licenseUrl>
+    <projectUrl>https://github.com/TovarnovM/Odesolve_lazy</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>Little modification of https://www.microsoft.com/en-us/research/project/open-solving-library-for-odes/ </description>
     <copyright>Copyright 2017</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>ODE LazyComputation</tags>
   </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+  </files>
 </package>
